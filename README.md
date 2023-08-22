@@ -1,8 +1,4 @@
-# React + Vite
+# React + Vite Bank Account
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This was a useReducer challenge on a React Udemy course presented by Jonas
+![Screenshot 2023-08-22 at 15-46-12 Vite React Bank Account](https://github.com/bc464/react-bank-account/assets/82536545/f7744e6e-70df-4c3f-9ce4-4d0e2afa9be6)
